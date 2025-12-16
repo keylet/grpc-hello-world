@@ -1,0 +1,7 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo '<h1>Frontend OK</h1>' > build/index.html"
+  }
+}
